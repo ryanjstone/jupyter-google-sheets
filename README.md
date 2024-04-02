@@ -1,2 +1,2 @@
 # jupyter-google-sheets
-Example Jupyter Notebok using Google Sheets
+Example Jupyter Notebook using Google Sheets
