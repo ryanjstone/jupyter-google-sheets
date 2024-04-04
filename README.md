@@ -1,2 +1,2 @@
 # jupyter-google-sheets
-Example Jupyter Notebook using Google Sheets
+Example Data Analysis project using Jupyter Notebook using Google Sheets
